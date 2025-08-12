@@ -12,9 +12,7 @@ CodeBuddy is a simple Python script to run code files, detect errors, and provid
 ## Installation
 
 1. Clone this repository:
-
 git clone https://github.com/yourusername/codebuddy.git
-
 cd codebuddy
 
 2. Create a virtual environment and install dependencies:
